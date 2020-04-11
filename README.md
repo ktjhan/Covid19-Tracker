@@ -1,3 +1,5 @@
+Hosted on Zeit: https://covid19-tracker-edq4h6vms.now.sh/
+
 ## 🧰 What This Includes
 * [Yarn](https://yarnpkg.com/en/)
 * [Gatsby](https://www.gatsbyjs.org/)
